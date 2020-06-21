@@ -9,6 +9,9 @@
 
             ./coq
             ./lean
+
+            ./kotlin
+            ./mps
             ./arend
             
             ./cpp
