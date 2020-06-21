@@ -4,5 +4,5 @@
             ./boot
             ./wireless
             ./audio
-        ]
+        ];
 }

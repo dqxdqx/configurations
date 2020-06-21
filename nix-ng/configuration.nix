@@ -15,5 +15,5 @@
             ./editor/editor.nix
             ./lang/lang.nix
             ./localize/localize.nix
-        ]
+        ];
 }
