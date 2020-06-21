@@ -1,6 +1,4 @@
-{
-    imports =
-        [
+[
             ./haskell
             ./idris
             ./agda
@@ -29,5 +27,4 @@
             ./python
             
             ./nix
-        ]
-}
+]

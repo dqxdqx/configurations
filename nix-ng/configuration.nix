@@ -12,6 +12,7 @@
 
             ./hardware/hardware.nix
             ./base/base.nix
+            ./editor/editor.nix
             ./lang/lang.nix
             ./localize/localize.nix
         ]
