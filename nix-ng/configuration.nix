@@ -4,7 +4,7 @@
 
 {
     nix.binaryCaches = mkForce[ "https://mirrors.tuna.tsinghua.edu.cn/nix-channels/store" ];
-    system.autoUpgrade.channel = "https://mirrors.tuna.tsinghua.edu.cn/nix-channels/nixos-20.03"
+    system.autoUpgrade.channel = "https://mirrors.tuna.tsinghua.edu.cn/nix-channels/nixos-20.03";
 
     imports =
         [
