@@ -3,6 +3,6 @@
         [
             ./boot
             ./wireless
-            ./sound
+            ./audio
         ]
 }
