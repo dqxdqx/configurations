@@ -6,6 +6,7 @@
         zsh
         firefox aria2 thunderbird
         fcitx-rime
-        pandoc texlive texmacs
+        pandoc texmacs
+        git
     ];
 }
